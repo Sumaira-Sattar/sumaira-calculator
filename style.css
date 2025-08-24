@@ -56,13 +56,17 @@ button:active{
 }
 #num1{
 margin : 20px;
-    background-color: burlywood;
-    color: white;
+    background-color : aliceblue;
+    color: cadetblue;
     display : block ;
+    height : 70px;
+    width:  150px;
 }
 #num2{
     margin : 20px;
-    background-color: burlywood;
-    color: white;
+    background-color: aliceblue
+    color: cadetblue;
     display : block ;
+    height : 70px;
+    width:  150px;
 }
