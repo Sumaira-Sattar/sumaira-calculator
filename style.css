@@ -57,16 +57,18 @@ button:active{
 #num1{
 margin : 20px;
     background-color : aliceblue;
-    color: cadetblue;
+    color: black;
     display : block ;
     height : 70px;
-    width:  150px;
+    width:  190px;
+    font-size : 20px;
 }
 #num2{
     margin : 20px;
-    background-color: aliceblue
-    color: cadetblue;
+    background-color: aliceblue;
+    color: black;
     display : block ;
-    height : 70px;
-    width:  150px;
+    height : 35px;
+    width:  190px;
+     font-size : 20px;
 }
